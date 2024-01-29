@@ -38,7 +38,7 @@ The Multi-Port, Multi-Channel Signal Viewer is a desktop application developed i
 
 ![Link_Graphs](Resources/Gifs/Link_Graphs.gif)
 
-#### Change Signal Colors
+#### Change Signal Colors & Switch Graphs
 
 ![Change_Color](Resources/Gifs/Change_Colors.gif)
 
