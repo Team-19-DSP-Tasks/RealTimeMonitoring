@@ -1,4 +1,4 @@
-# Real-Time Monitoring
+# Multi-Port, Multi-Channel Real-Time Monitoring
 
 ## Table of Contents:
 - [Description](#description)
@@ -11,11 +11,34 @@
 
 ## Description
 
+The Multi-Port, Multi-Channel Signal Viewer is a desktop application developed in Python and Qt. The application is designed to assist in monitoring vital signals in an ICU setting. It allows users to open and visualize different medical signals, such as ECG, EMG, EEG, etc., in real-time. The user-friendly interface provides controls for manipulating signals, enabling an effective and interactive monitoring experience.
+
 ## Project Features
+
+- **Multi-Port, Multi-Channel Viewer**: The application supports the simultaneous display of multiple signals in two independent graphs.
+- **Graph Linking**: Users can link both graphs, ensuring synchronized time frames, signal speed, and viewport for seamless comparison.
+- **Cine Mode**: Signals are displayed in cine mode, resembling real-time running signals as seen in ICU monitors.
+- **Interactive Controls**:
+  - Change signal color
+  - Add labels/titles to signals
+  - Show/hide signals
+  - Control/customize cine speed
+  - Zoom in/out
+  - Pause/play/rewind
+  - Scroll/Pan signals in any direction
+  - Move signals between graphs
+
+- **Boundary Conditions**: Intelligent handling of boundary conditions prevents unwanted manipulations outside signal limits.
+
+- **Exporting & Reporting**: Users can generate reports with one or more snapshots of the graphs, including data statistics on displayed signals in a PDF format. Data statistics include mean, std, duration, min, and max values, organized in a well-structured table.
 
 ## Quick Preview
 
+*Include screenshots or GIFs showcasing the application's interface and features.*
+
 ## Executing program
+
+*Provide instructions on how to run the application, including any dependencies or setup required.*
 
 ## Help
 
