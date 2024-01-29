@@ -34,11 +34,23 @@ The Multi-Port, Multi-Channel Signal Viewer is a desktop application developed i
 
 ## Quick Preview
 
-*Include screenshots or GIFs showcasing the application's interface and features.*
+#### Controlling Graphs in Linked Mode
+
+![Link_Graphs](Resources/Gifs/Link_Graphs.gif)
+
+#### Change Signal Colors
+
+![Change_Color](Resources/Gifs/Change_Colors.gif)
 
 ## Executing program
 
-*Provide instructions on how to run the application, including any dependencies or setup required.*
+To be able to use our app, you can simply follow these steps:
+1. Install Python3 on your device. You can download it from <a href="https://www.python.org/downloads/">Here</a>.
+2. Install the required packages by the following command.
+```
+pip install -r requirements.txt
+```
+3. Run the file with the name "filterDesignUI.py"
 
 ## Help
 
