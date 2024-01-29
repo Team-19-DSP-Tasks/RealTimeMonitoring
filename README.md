@@ -50,7 +50,7 @@ To be able to use our app, you can simply follow these steps:
 ```
 pip install -r requirements.txt
 ```
-3. Run the file with the name "filterDesignUI.py"
+3. Run the file with the name "SignalViewer.py"
 
 ## Help
 
